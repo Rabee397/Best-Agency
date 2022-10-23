@@ -135,4 +135,4 @@ a{text-decoration: none;}
 .footer-content{position: absolute;top:50%;left:50%;transform: translate(-50%,-50%);text-align: center;}
 .footer-icon i{margin-left:10px;font-size:30px;width:60px;height:60px;border-radius:50%;background-color:rgb(51, 131, 131);color:white;text-align:center;line-height:60px; transition:.4s}
 .copy-right{color:white;margin-top:30px}
-.footer-icon i:hover{background-color: lightblue}
+.footer-icon i:hover{background-color:RGB(38,82,94)}
